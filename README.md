@@ -13,3 +13,4 @@ Analysis covered :
 * Creating train and test dataset
 * Fitting the training data to the modeled regressions
 
+We can see the fluctuation in the real stock price while our model also predicted a similar trend in the stock price. This clearly shows how powerful LSTMs are for analyzing time series and sequential data.
